@@ -26,7 +26,7 @@ int main()
     recibirVariable(n);
 
     Invertir(n,b);
-
+    //punto e
     orden(n,b);
 
 
